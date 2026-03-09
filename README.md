@@ -97,7 +97,3 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-**Your Name**
-
-GitHub: https://github.com/yourusername
